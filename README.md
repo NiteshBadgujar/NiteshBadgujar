@@ -99,11 +99,11 @@
 ### 📊 My GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nitesh-Badgujar-28906&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" alt="GitHub Stats" height="192px"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Nitesh-Badgujar-28906&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="192px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=NiteshBadgujar&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" alt="GitHub Stats" height="192px"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=NiteshBadgujar&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="192px"/>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitesh-Badgujar-28906&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" alt="Top Languages" height="192px"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nitesh-Badgujar-28906&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph" height="192px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiteshBadgujar&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" alt="Top Languages" height="192px"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NiteshBadgujar&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph" height="192px"/>
 </div>
 
 ---
@@ -111,7 +111,7 @@
 ### 🐍 My Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Nitesh-Badgujar-28906/Nitesh-Badgujar-28906/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/NiteshBadgujar/NiteshBadgujar/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
